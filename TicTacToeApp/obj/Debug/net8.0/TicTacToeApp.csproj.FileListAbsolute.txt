@@ -1,0 +1,14 @@
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/bin/Debug/net8.0/TicTacToeApp
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/bin/Debug/net8.0/TicTacToeApp.deps.json
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/bin/Debug/net8.0/TicTacToeApp.runtimeconfig.json
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/bin/Debug/net8.0/TicTacToeApp.dll
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/bin/Debug/net8.0/TicTacToeApp.pdb
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/obj/Debug/net8.0/TicTacToeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/obj/Debug/net8.0/TicTacToeApp.AssemblyInfoInputs.cache
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/obj/Debug/net8.0/TicTacToeApp.AssemblyInfo.cs
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/obj/Debug/net8.0/TicTacToeApp.csproj.CoreCompileInputs.cache
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/obj/Debug/net8.0/TicTacToeApp.dll
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/obj/Debug/net8.0/refint/TicTacToeApp.dll
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/obj/Debug/net8.0/TicTacToeApp.pdb
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/obj/Debug/net8.0/TicTacToeApp.genruntimeconfig.cache
+/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/obj/Debug/net8.0/ref/TicTacToeApp.dll
