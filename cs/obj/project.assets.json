@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/TicTacToeApp.csproj",
+      "projectUniqueName": "/Users/davidcote/Desktop/tic-tac-toe/cs/TicTacToeApp.csproj",
       "projectName": "TicTacToeApp",
-      "projectPath": "/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/TicTacToeApp.csproj",
+      "projectPath": "/Users/davidcote/Desktop/tic-tac-toe/cs/TicTacToeApp.csproj",
       "packagesPath": "/Users/davidcote/.nuget/packages/",
-      "outputPath": "/Users/davidcote/Desktop/tic-tac-toe/TicTacToeApp/obj/",
+      "outputPath": "/Users/davidcote/Desktop/tic-tac-toe/cs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/davidcote/.nuget/NuGet/NuGet.Config"
