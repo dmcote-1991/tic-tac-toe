@@ -1,3 +1,7 @@
+/* Java Version of Tic Tac Toe
+  * To Play: run "java TicTacToe" in the terminal.
+*/
+
 package java;
 
 import java.util.Scanner;
