@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game Implementations
 
-This repository contains implementations of the classic Tic-Tac-Toe game in multiple programming languages: JavaScript, C#, Java, PHP, and Python. Each implementation demonstrates the use of the respective language’s features and practices.
+This repository contains implementations of the classic Tic-Tac-Toe game in multiple programming languages: JavaScript, C#, Java, PHP, Python, and Ruby. Each implementation demonstrates the use of the respective language’s features and practices.
 
 ## Table of Contents
 
@@ -9,6 +9,7 @@ This repository contains implementations of the classic Tic-Tac-Toe game in mult
 - [Java](#java)
 - [PHP](#php)
 - [Python](#python)
+- [Ruby](#ruby)
 - [How to Run](#how-to-run)
 - [Contributing](#contributing)
 - [License](#license)
@@ -92,6 +93,21 @@ The Python implementation is a console-based Tic-Tac-Toe game. It uses Python's 
 
 1. Ensure you have Python installed.
 2. Run the script with `python3 TicTacToe.py`.
+
+## Ruby
+
+### Description
+
+The Ruby implementation is a console-based Tic-Tac-Toe game. It uses Ruby's standard input/output for user interaction and game management.
+
+### Files
+
+- `TicTacToe.rb`: Contains the Ruby code for the game logic.
+
+### How to Run
+
+1. Ensure you have Ruby installed on your system.
+2. Run the script with `ruby TicTacToe.rb`.
 
 ## How to Run
 
