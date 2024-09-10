@@ -12,7 +12,6 @@ This repository contains implementations of the classic Tic-Tac-Toe game in mult
 - [Ruby](#ruby)
 - [How to Run](#how-to-run)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## JavaScript
 
